@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1674645265 source:c:\users\user\desktop\leader election\examples.cpp
+	"Graph.h"
+	<iostream>
+
+1674644982 c:\users\user\desktop\leader election\graph\graph.h
+	"Node.h"
+	<iostream>
+	<vector>
+	<queue>
+	<algorithm>
+	<climits>
+	<random>
+	<chrono>
+
+1674644993 c:\users\user\desktop\leader election\node\node.h
+	<iostream>
+	<vector>
+	<queue>
+	<algorithm>
+	<climits>
+	<random>
+
+1674644936 source:c:\users\user\desktop\leader election\graph\graph.cpp
+	"Graph.h"
+	<omp.h>
+
+1674644929 source:c:\users\user\desktop\leader election\node\node.cpp
+	"Node.h"
+
+1674645502 source:c:\users\user\desktop\leader election\main.cpp
+	"Graph.h"
+	"examples.cpp"
+	<iostream>
+
+1674645265 c:\users\user\desktop\leader election\examples.cpp
+	"Graph.h"
+	<iostream>
+
